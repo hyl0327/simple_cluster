@@ -6,3 +6,4 @@ xlwt
 matplotlib
 scikit-learn
 jieba
+jupyter
